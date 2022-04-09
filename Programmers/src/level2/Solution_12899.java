@@ -1,7 +1,7 @@
 package level2;
 
 //#12899 StringBuilder - 124 나라의 숫자 (JAVA)
-
+ 
 import java.lang.StringBuilder;
 
 class Solution {
